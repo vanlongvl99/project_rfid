@@ -1,0 +1,14 @@
+Pin connection :
+ESP32 AND RFID:
+                D23 - MOSI
+                D19 - MISO
+                D18 - SCK
+                D17 - RST
+                D16 - SDA
+                3V3 - VCC
+                GND - GND
+ ESP32 AND LCD I2C:
+                D22 - SCL
+                D21 - SDA
+                GND - GND 
+                VIN - VCC
