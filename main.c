@@ -208,5 +208,5 @@ void loop() {
   // "stop" the encryption of the PCD, it must be called after communication with authentication, otherwise new communications can not be initiated
   mfrc522.PCD_StopCrypto1();
   lcd.setCursor(0,1);
-    lcd.print("Pyroject      ");
+    lcd.print("Tieu Luan      ");
 }
